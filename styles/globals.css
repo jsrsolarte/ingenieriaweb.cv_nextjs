@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.debug {
+    border: 1px solid red;
+}
+
+.sidebar-section{
+    @apply border-gray-200 border-b-2;
+}
