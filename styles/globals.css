@@ -13,15 +13,15 @@
 .percentage-indicator {
   border: 0.25px solid;
   padding: 1px;
-  @apply flex flex-col justify-center rounded-full h-1.5 border-yellow-500;
+  @apply flex flex-col justify-center rounded-full h-1.5 border-primary;
 }
 
 .app-highlighter-color {
-  @apply text-yellow-500;
+  @apply text-primary;
 }
 
 .bg-app-highlighter-color {
-  @apply bg-yellow-500 text-black font-bold;
+  @apply bg-primary text-white font-bold;
 }
 
 .base-text {

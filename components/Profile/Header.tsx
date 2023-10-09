@@ -27,7 +27,7 @@ function Header({ name, jobTitle, description, email, subject }: Props) {
           </span>
         </div>
         <div className="grid place-content-center">
-          <span className="base-text">{description}</span>
+          <span className="text-primary">{description}</span>
         </div>
         <div className="grid content-end">
           <a

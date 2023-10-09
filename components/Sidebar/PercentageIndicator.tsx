@@ -17,7 +17,7 @@ const PercentageIndicator = ({
       </div>
       <div className="percentage-indicator">
         <div
-          className="bg-yellow-500 h-1 rounded-full"
+          className="bg-app-highlighter-color h-1 rounded-full"
           style={{ width: `${percentage}%` }}
         ></div>
       </div>
