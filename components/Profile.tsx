@@ -22,6 +22,7 @@ function Profile({ name, jobTitle, profile }: Props) {
         description={profile.description}
         email={profile.email}
         subject={profile.subject}
+        pictureUrl = {profile.largePic}
       />
       <ProfileSection
         title={t("profile.knowledge")}

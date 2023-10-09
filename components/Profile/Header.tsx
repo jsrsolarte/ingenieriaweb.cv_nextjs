@@ -1,7 +1,6 @@
 import { useTranslation } from "next-i18next";
 import React from "react";
 import Image from "next/image";
-import profilePic from "@/public/img/perfil.jpg";
 import { FaArrowRight } from "react-icons/fa";
 
 interface Props {
@@ -10,9 +9,17 @@ interface Props {
   description: string;
   email: string;
   subject: string;
+  pictureUrl: string;
 }
 
-function Header({ name, jobTitle, description, email, subject }: Props) {
+function Header({
+  name,
+  jobTitle,
+  description,
+  email,
+  subject,
+  pictureUrl,
+}: Props) {
   const { t } = useTranslation("common");
   return (
     <div className="grid grid-cols-5 gap-5 card">
@@ -42,8 +49,8 @@ function Header({ name, jobTitle, description, email, subject }: Props) {
           </a>
         </div>
       </div>
-      <div className="grid col-span-2 place-content-center">
-        <Image src={profilePic} alt="foto perfil redondeado" />
+      <div className="grid col-span-2 imageContainerResize">
+        <Image src={pictureUrl} fill alt="foto" />
       </div>
     </div>
   );

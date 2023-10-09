@@ -63,3 +63,13 @@
 .imageContainer img {
   object-fit: cover;
 }
+
+.imageContainerResize {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.imageContainerResize img {
+  object-fit: scale-down;
+}

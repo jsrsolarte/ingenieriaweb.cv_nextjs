@@ -15,7 +15,7 @@ const SideBar = (props: Props) => {
     <aside className="p-5 flex-none flex-col card h-full">
       <div className="p-5 flex flex-col border-b-2">
         <Image
-          src={profilePic}
+          src={props.data.squarePic}
           alt="foto perfil redondeado"
           className="rounded-full"
           width={200}

@@ -4,5 +4,5 @@ interface CvData {
   networks: NetworkData;
   name: string;
   jobTitle: string;
+  squarePic: string;
 }
-

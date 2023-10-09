@@ -1,9 +1,11 @@
 {
   "name": "Juan Sebastián Ramirez Solarte",
   "jobTitle": "Software developer architect",
+  "squarePic": "https://udeateststorageaccount.blob.core.windows.net/cv-web-imag/perfil_sqr.jpg",
   "profile": {
     "description": "With experience in designing and implementing innovative technological solutions focused on the commercialization of electrical energy, using cutting-edge technologies and agile methodologies. Lover of learning about new technologies, worked with microservices, cloud services such as Azure, blockchain, among others.",
     "email": "jsrsolarte@gmail.com",
+    "largePic": "https://udeateststorageaccount.blob.core.windows.net/cv-web-imag/perfil.jpg",
     "subject": "I saw your resume and I want to talk to you",
     "knowledge": {
       "description": "Extensive experience in developing digital platforms for business transformation using 4IR technologies such as blockchain, IoT, edge computing, among others.",

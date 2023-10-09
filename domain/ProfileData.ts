@@ -2,6 +2,7 @@ interface ProfileData {
   description: string;
   email: string;
   subject: string;
+  largePic: string;
   knowledge: KnowledgeData;
   education: EducationData;
   portfolio: PortfolioData;

@@ -4,7 +4,10 @@ const nextConfig = {
   i18n,
   reactStrictMode: true,
   images: {
-    domains: ["img.freepik.com"],
+    domains: [
+      "img.freepik.com",
+      "udeateststorageaccount.blob.core.windows.net",
+    ],
   },
 };
 
