@@ -1,6 +1,6 @@
 {
-  "name": "Juan Sebastián Ramirez Solarte",
-  "jobTitle": "Software developer architect",
+  "name": "Juan Sebastián Ramírez Solarte",
+  "jobTitle": "Software Developer Architect",
   "squarePic": "https://udeateststorageaccount.blob.core.windows.net/cv-web-imag/perfil_sqr.jpg",
   "profile": {
     "description": "With experience in designing and implementing innovative technological solutions focused on the commercialization of electrical energy, using cutting-edge technologies and agile methodologies. Lover of learning about new technologies, worked with microservices, cloud services such as Azure, blockchain, among others.",
@@ -43,22 +43,22 @@
         {
           "institution": "University of Antioquia",
           "title": "Systems Engineering",
-          "initDate": "february 2017",
+          "initDate": "February 2017",
           "endDate": "Current",
           "description": "Systems Engineering student at the University of Antioquia in the eighth semester, monitor for the fundamentals of programming course."
         },
         {
           "institution": "University of Antioquia",
           "title": "Microservices Development Diploma",
-          "initDate": "june 2019",
-          "endDate": "november 2019",
+          "initDate": "June 2019",
+          "endDate": "November 2019",
           "description": "Diploma in microservices development with Java + Spring Boot + Docker + Kubernetes"
         },
         {
           "institution": "National University of Colombia",
           "title": "Chemical Engineering",
-          "initDate": "february 2010",
-          "endDate": "december 2015",
+          "initDate": "February 2010",
+          "endDate": "December 2015",
           "description": "Completed up to the seventh semester of Chemical Engineering at the National University of Colombia"
         }
       ]
@@ -67,19 +67,19 @@
       "description": "Applications developed using different technologies",
       "sections": [
         {
-          "image": "https://www.freepik.com/free-photo/shining-complexity-computer-chips-electronics-industry-generated-ai_42586641.htm#query=blockchain&position=1&from_view=search&track=sph",
+          "image": "https://img.freepik.com/foto-gratis/resplandeciente-complejidad-chips-informaticos-industria-electronica-generada-ia_188544-36452.jpg?w=1380&t=st=1696867111~exp=1696867711~hmac=63f34ced4c15ecf8fb7421931416f9e0452240965dfd3212c933ff2043c4a0a5",
           "title": "Ethereum Blockchain Project",
           "description": "Development of a platform for electric energy exchange among users using Ethereum blockchain technology.",
           "url": "https://github.com/jsrsolarte/udea.eth.exercise"
         },
         {
-          "image": "https://www.freepik.com/free-photo/colorful-abstract-3d-ai-generative-background_43853711.htm#query=chaos%20engineering&position=11&from_view=search&track=ais",
+          "image": "https://img.freepik.com/foto-gratis/colapso-mundial-escena-apocaliptica-pintura-digital_456031-63.jpg?w=1380&t=st=1696868882~exp=1696869482~hmac=9af8baa6921529aa257806c6a44f2caf247cea8bac7db5edac824eb857189938",
           "title": "Chaos Engineering",
           "description": "Project implementing a chaos system in a microservices application.",
           "url": "https://github.com/jsrsolarte/Udea.Chaos.Owner"
         },
         {
-          "image": "https://www.freepik.com/free-photo/abstract-3d-visualization-visual-design-cyber-network_34940972.htm#query=net&position=8&from_view=search&track=sph",
+          "image": "https://img.freepik.com/foto-gratis/diseno-visualizacion-red-cibernetica-abstracta-3d_1048-17445.jpg?w=996&t=st=1696868778~exp=1696869378~hmac=ccae398808d9d5b6078b4c2faf7b670ccf918c942a706a7f2f300bb7b1d66305",
           "title": "Microservices with .Net",
           "description": "Personal project implementing a microservices application with .Net Core, Dapr, Azure Service Bus, Azure Functions, Azure Storage, Azure CosmosDB, Azure Key Vault, Azure Application Insights, Azure API Management, Azure DevOps, among others.",
           "url": "https://github.com/jsrsolarte/BaccoApp.UserManagement"

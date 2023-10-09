@@ -13,10 +13,10 @@
     "address": "Address",
     "state": "State",
     "languages": "Languages",
-    "programmingLanguages": "Programming languages",
-    "extraSkills": "Extra skills"
+    "programmingLanguages": "Programming Languages",
+    "extraSkills": "Extra Skills"
   },
-  "footer":{
+  "footer": {
     "text": "Made with ❤️ by Juan Ramirez"
   }
 }

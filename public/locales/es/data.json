@@ -1,14 +1,14 @@
 {
-  "name": "Juan Sebastián Ramirez Solarte",
+  "name": "Juan Sebastián Ramírez Solarte",
   "jobTitle": "Arquitecto Desarrollador",
   "squarePic": "https://udeateststorageaccount.blob.core.windows.net/cv-web-imag/perfil_sqr.jpg",
   "profile": {
-    "description": "Con experiencia en diseñar e implementar soluciones tecnológicas innovadoras enfocadas en la comercialización de energía eléctrica, utilizando tecnologías de punta y metodologías ágiles. Amante de aprender sobre nuevas tecnologías, he trabajado con microservicios, servicios de nube como azure, blockchain, entre otras.",
+    "description": "Con experiencia en diseñar e implementar soluciones tecnológicas innovadoras enfocadas en la comercialización de energía eléctrica, utilizando tecnologías de punta y metodologías ágiles. Amante de aprender sobre nuevas tecnologías. He trabajado con microservicios, servicios de nube como Azure, blockchain, entre otras.",
     "email": "jsrsolarte@gmail.com",
-    "subject": "Ví tu hoja de vida en tu página web y quiero contactarte",
+    "subject": "Vi tu hoja de vida en tu página web y quiero contactarte",
     "largePic": "https://udeateststorageaccount.blob.core.windows.net/cv-web-imag/perfil.jpg",
     "knowledge": {
-      "description": "Alta experiencia en desarrollo de plataformas digitales para la transformación de los negocios utilizando tecnologias de la 4RI tales como blockchain, IoT, edge computing, entre otras.",
+      "description": "Alta experiencia en desarrollo de plataformas digitales para la transformación de los negocios utilizando tecnologías de la 4RI tales como blockchain, IoT, edge computing, entre otras.",
       "sections": [
         {
           "title": "Plataformas Smart Utilities",
@@ -45,7 +45,7 @@
           "title": "Ingeniería de Sistemas",
           "initDate": "febrero 2017",
           "endDate": "Actualidad",
-          "description": "Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia en octavo semestre, monitor de de la materia de fundamentos de programación."
+          "description": "Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia en octavo semestre, monitor de la materia de fundamentos de programación."
         },
         {
           "institution": "Universidad de Antioquia",
@@ -55,7 +55,7 @@
           "description": "Diplomado en desarrollo de microservicios con Java + Spring Boot + Docker + Kubernetes"
         },
         {
-          "institution": "Universidad de Nacional de Colombia",
+          "institution": "Universidad Nacional de Colombia",
           "title": "Ingeniería Química",
           "initDate": "febrero 2010",
           "endDate": "diciembre 2015",
