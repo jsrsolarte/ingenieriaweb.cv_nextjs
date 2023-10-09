@@ -1,0 +1,133 @@
+{
+  "name": "Juan Sebastián Ramirez Solarte",
+  "jobTitle": "Software developer architect",
+  "profile": {
+    "description": "With experience in designing and implementing innovative technological solutions focused on the commercialization of electrical energy, using cutting-edge technologies and agile methodologies. Lover of learning about new technologies, worked with microservices, cloud services such as Azure, blockchain, among others.",
+    "email": "jsrsolarte@gmail.com",
+    "subject": "I saw your resume and I want to talk to you",
+    "knowledge": {
+      "description": "Extensive experience in developing digital platforms for business transformation using 4IR technologies such as blockchain, IoT, edge computing, among others.",
+      "sections": [
+        {
+          "title": "Smart Utilities Platforms",
+          "description": "Microservices, IoT, cloud services, among others.",
+          "faIconName": "RiApps2Line"
+        },
+        {
+          "title": "Blockchain",
+          "description": "Energy exchange using HyperLedger Fabric.",
+          "faIconName": "RiFlashlightLine"
+        },
+        {
+          "title": "Software Architecture",
+          "description": "Application design using different methodologies and patterns.",
+          "faIconName": "RiBuilding2Line"
+        },
+        {
+          "title": "Software Development",
+          "description": "Application development using different programming languages.",
+          "faIconName": "RiComputerLine"
+        },
+        {
+          "title": "DevOps",
+          "description": "Continuous deployment with Azure DevOps, Jenkins, among others.",
+          "faIconName": "RiGitMergeLine"
+        }
+      ]
+    },
+    "education": {
+      "description": "Systems Engineering student at the University of Antioquia in the eighth semester",
+      "sections": [
+        {
+          "institution": "University of Antioquia",
+          "title": "Systems Engineering",
+          "initDate": "february 2017",
+          "endDate": "Current",
+          "description": "Systems Engineering student at the University of Antioquia in the eighth semester, monitor for the fundamentals of programming course."
+        },
+        {
+          "institution": "University of Antioquia",
+          "title": "Microservices Development Diploma",
+          "initDate": "june 2019",
+          "endDate": "november 2019",
+          "description": "Diploma in microservices development with Java + Spring Boot + Docker + Kubernetes"
+        },
+        {
+          "institution": "National University of Colombia",
+          "title": "Chemical Engineering",
+          "initDate": "february 2010",
+          "endDate": "december 2015",
+          "description": "Completed up to the seventh semester of Chemical Engineering at the National University of Colombia"
+        }
+      ]
+    },
+    "portfolio": {
+      "description": "Applications developed using different technologies",
+      "sections": [
+        {
+          "image": "https://www.freepik.com/free-photo/shining-complexity-computer-chips-electronics-industry-generated-ai_42586641.htm#query=blockchain&position=1&from_view=search&track=sph",
+          "title": "Ethereum Blockchain Project",
+          "description": "Development of a platform for electric energy exchange among users using Ethereum blockchain technology.",
+          "url": "https://github.com/jsrsolarte/udea.eth.exercise"
+        },
+        {
+          "image": "https://www.freepik.com/free-photo/colorful-abstract-3d-ai-generative-background_43853711.htm#query=chaos%20engineering&position=11&from_view=search&track=ais",
+          "title": "Chaos Engineering",
+          "description": "Project implementing a chaos system in a microservices application.",
+          "url": "https://github.com/jsrsolarte/Udea.Chaos.Owner"
+        },
+        {
+          "image": "https://www.freepik.com/free-photo/abstract-3d-visualization-visual-design-cyber-network_34940972.htm#query=net&position=8&from_view=search&track=sph",
+          "title": "Microservices with .Net",
+          "description": "Personal project implementing a microservices application with .Net Core, Dapr, Azure Service Bus, Azure Functions, Azure Storage, Azure CosmosDB, Azure Key Vault, Azure Application Insights, Azure API Management, Azure DevOps, among others.",
+          "url": "https://github.com/jsrsolarte/BaccoApp.UserManagement"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "residence": "Medellín",
+    "address": "Calle 10 # 43-5",
+    "state": "Available",
+    "age": "33",
+    "languages": [
+      {
+        "title": "Spanish",
+        "percentage": 100
+      },
+      {
+        "title": "English",
+        "percentage": 65
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "title": "C#",
+        "percentage": 100
+      },
+      {
+        "title": "Golang",
+        "percentage": 75
+      },
+      {
+        "title": "Python",
+        "percentage": 65
+      },
+      {
+        "title": "Typescript",
+        "percentage": 50
+      }
+    ],
+    "extraSkills": [
+      [".Net", "Entity Framework", "Dapr"],
+      ["Blockchain", "Ethereum", "Hyperledger Fabric"],
+      ["Microservices", "Docker", "Kubernetes", "Istio"],
+      ["Azure Cloud"],
+      ["React", "Vue"],
+      ["SQL Server", "CosmosDB", "MongoDB"],
+      ["Git", "Scrum", "Kanban"],
+      ["Azure DevOps", "Jenkins"],
+      ["ElasticSearch", "Kibana", "Logstash"]
+    ]
+  }
+}

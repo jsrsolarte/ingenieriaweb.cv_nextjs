@@ -1,5 +1,22 @@
 {
+  "profile": {
+    "greeting": "I'm ",
+    "hireMe": "Hire me",
+    "knowledge": "Knowledge",
+    "education": "Education",
+    "portfolio": "Portfolio",
+    "learnMore": "Learn more"
+  },
   "sidebar": {
-    "position": "Software developer architect"
+    "age": "Age",
+    "residence": "Residence",
+    "address": "Address",
+    "state": "State",
+    "languages": "Languages",
+    "programmingLanguages": "Programming languages",
+    "extraSkills": "Extra skills"
+  },
+  "footer":{
+    "text": "Made with ❤️ by Juan Ramirez"
   }
 }

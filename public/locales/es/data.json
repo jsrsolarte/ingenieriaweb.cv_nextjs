@@ -1,0 +1,139 @@
+{
+  "name": "Juan Sebastián Ramirez Solarte",
+  "jobTitle": "Arquitecto Desarrollador",
+  "profile": {
+    "description": "Con experiencia en diseñar e implementar soluciones tecnológicas innovadoras enfocadas en la comercialización de energía eléctrica, utilizando tecnologías de punta y metodologías ágiles. Amante de aprender sobre nuevas tecnologías, he trabajado con microservicios, servicios de nube como azure, blockchain, entre otras.",
+    "email": "jsrsolarte@gmail.com",
+    "subject": "Ví tu hoja de vida en tu página web y quiero contactarte",
+    "knowledge": {
+      "description": "Alta experiencia en desarrollo de plataformas digitales para la transformación de los negocios utilizando tecnologias de la 4RI tales como blockchain, IoT, edge computing, entre otras.",
+      "sections": [
+        {
+          "title": "Plataformas Smart Utilities",
+          "description": "Microservicios, IoT, servicios en la nube, entre otros.",
+          "faIconName": "RiApps2Line"
+        },
+        {
+          "title": "Blockchain",
+          "description": "Intercambio de energía con HyperLedger Fabric.",
+          "faIconName": "RiFlashlightLine"
+        },
+        {
+          "title": "Arquitectura de Software",
+          "description": "Diseño de aplicaciones con diferentes metodologías y patrones.",
+          "faIconName": "RiBuilding2Line"
+        },
+        {
+          "title": "Desarrollo de Software",
+          "description": "Desarrollo de aplicaciones con diferentes lenguajes de programación.",
+          "faIconName": "RiComputerLine"
+        },
+        {
+          "title": "DevOps",
+          "description": "Despliegue continuo con Azure DevOps, Jenkins, entre otros.",
+          "faIconName": "RiGitMergeLine"
+        }
+      ]
+    },
+    "education": {
+      "description": "Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia en octavo semestre",
+      "sections": [
+        {
+          "institution": "Universidad de Antioquia",
+          "title": "Ingeniería de Sistemas",
+          "initDate": "febrero 2017",
+          "endDate": "Actualidad",
+          "description": "Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia en octavo semestre, monitor de de la materia de fundamentos de programación."
+        },
+        {
+          "institution": "Universidad de Antioquia",
+          "title": "Diplomado en Desarrollo de Microservicios",
+          "initDate": "junio 2019",
+          "endDate": "noviembre 2019",
+          "description": "Diplomado en desarrollo de microservicios con Java + Spring Boot + Docker + Kubernetes"
+        },
+        {
+          "institution": "Universidad de Nacional de Colombia",
+          "title": "Ingeniería Química",
+          "initDate": "febrero 2010",
+          "endDate": "diciembre 2015",
+          "description": "Hasta séptimo semestre de Ingeniería Química en la Universidad Nacional de Colombia"
+        }
+      ]
+    },
+    "portfolio": {
+      "description": "Aplicaciones desarrolladas en diferentes tecnologías",
+      "sections": [
+        {
+          "image": "https://img.freepik.com/foto-gratis/resplandeciente-complejidad-chips-informaticos-industria-electronica-generada-ia_188544-36452.jpg?w=1380&t=st=1696867111~exp=1696867711~hmac=63f34ced4c15ecf8fb7421931416f9e0452240965dfd3212c933ff2043c4a0a5",
+          "title": "Proyecto Blockchain Ethereum",
+          "description": "Desarrollo de una plataforma para el intercambio de energía eléctrica entre usuarios utilizando la tecnología blockchain de Ethereum.",
+          "url": "https://github.com/jsrsolarte/udea.eth.exercise"
+        },
+        {
+          "image": "https://img.freepik.com/foto-gratis/colapso-mundial-escena-apocaliptica-pintura-digital_456031-63.jpg?w=1380&t=st=1696868882~exp=1696869482~hmac=9af8baa6921529aa257806c6a44f2caf247cea8bac7db5edac824eb857189938",
+          "title": "Ingeniería del caos",
+          "description": "Proyecto en el cual se implementa un sistema de caos en una aplicación de microservicios",
+          "url": "https://github.com/jsrsolarte/Udea.Chaos.Owner"
+        },
+        {
+          "image": "https://img.freepik.com/foto-gratis/diseno-visualizacion-red-cibernetica-abstracta-3d_1048-17445.jpg?w=996&t=st=1696868778~exp=1696869378~hmac=ccae398808d9d5b6078b4c2faf7b670ccf918c942a706a7f2f300bb7b1d66305",
+          "title": "Microservicios con .Net",
+          "description": "Proyecto personal en el cual se implementa una aplicación de microservicios con .Net Core, Dapr, Azure Service Bus, Azure Functions, Azure Storage, Azure CosmosDB, Azure Key Vault, Azure Application Insights, Azure API Management, Azure DevOps, entre otros.",
+          "url": "https://github.com/jsrsolarte/BaccoApp.UserManagement"
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "residence": "Medellín",
+    "address": "Calle 10 # 43-5",
+    "state": "Disponible",
+    "age": "33",
+    "languages": [
+      {
+        "title": "Español",
+        "percentage": 100
+      },
+      {
+        "title": "Inglés",
+        "percentage": 65
+      }
+    ],
+    "programmingLanguages": [
+      {
+        "title": "C#",
+        "percentage": 100
+      },
+      {
+        "title": "Golang",
+        "percentage": 75
+      },
+      {
+        "title": "Python",
+        "percentage": 65
+      },
+      {
+        "title": "Typescript",
+        "percentage": 50
+      }
+    ],
+    "extraSkills": [
+      [".Net", "Entity Framework", "Dapr"],
+      ["Blockchain", "Ethereum", "Hyperledger Fabric"],
+      ["Microservices", "Docker", "Kubernetes", "Istio"],
+      ["Azure Cloud"],
+      ["React", "Vue"],
+      ["SQL Server", "CosmosDB", "MongoDB"],
+      ["Git", "Scrum", "Kanban"],
+      ["Azure DevOps", "Jenkins"],
+      ["ElasticSearch", "Kibana", "Logstash"]
+    ]
+  },
+  "networks": {
+    "github": "https://github.com/jsrsolarte",
+    "facebook": "https://www.facebook.com/jsrsolarte",
+    "linkedin": "https://www.linkedin.com/in/jsrsolarte/",
+    "twitterX": "https://twitter.com/jsrsolarte"
+  }
+}

@@ -1,5 +1,22 @@
 {
+  "profile": {
+    "greeting": "Soy ",
+    "hireMe": "Contrátame",
+    "knowledge": "Conocimientos",
+    "education": "Educación",
+    "portfolio": "Portafolio",
+    "learnMore": "Aprende más"
+  },
   "sidebar": {
-    "position": "Arquitecto Desarrollador de Software"
+    "age": "Edad",
+    "residence": "Residencia",
+    "address": "Dirección",
+    "state": "Estado",
+    "languages": "Idiomas",
+    "programmingLanguages": "Lenguajes de Programación",
+    "extraSkills": "Habilidades Extra"
+  },
+  "footer":{
+    "text": "Hecho con ❤️ por Juan Ramirez"
   }
 }

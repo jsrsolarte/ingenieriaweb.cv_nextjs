@@ -1,8 +1,11 @@
 /** @type {import('next').NextConfig} */
-const { i18n } = require('./next-i18next.config.js')
+const { i18n } = require("./next-i18next.config.js");
 const nextConfig = {
   i18n,
   reactStrictMode: true,
-}
+  images: {
+    domains: ["img.freepik.com"],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
