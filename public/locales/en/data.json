@@ -129,5 +129,11 @@
       ["Azure DevOps", "Jenkins"],
       ["ElasticSearch", "Kibana", "Logstash"]
     ]
+  },
+  "networks": {
+    "github": "https://github.com/jsrsolarte",
+    "facebook": "https://www.facebook.com/jsrsolarte",
+    "linkedin": "https://www.linkedin.com/in/jsrsolarte/",
+    "twitterX": "https://twitter.com/jsrsolarte"
   }
 }
